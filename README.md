@@ -1,6 +1,6 @@
 ### Hello There 👋
 
-# I am a Software Engineer from India. I am currently working on Cancer Diagnosis from images and developing RNN model for Bayesian Inference. I also keep searching and exploring a lot on github and reddit. 
+I am a Software Engineer from India. I am currently working on Cancer Diagnosis from images and developing RNN model for Bayesian Inference. I also keep searching and exploring a lot on github and reddit. 
 
 
 <p align='center'>
